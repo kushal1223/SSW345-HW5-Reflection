@@ -39,4 +39,5 @@ The most significant practice I want to try again in the future on another proje
 
 # Overall
 <h3>Considering all the design methods, implementation practices, and software processes you've encountered---compare and contrast how the benefits of the different practices and how they might be useful together.</h3>
+
 Overall, considering all the design methods, implementation practices, and software processes that I have encountered, it is clear that when taking into account all the benefits of the different practices that they can be useful together. To start off, laying out all the processes that can be utilized will serve as a guide for design methods and implementation practices. For example, organizing the process through something like kanban and incorporating code review will ensure that the project is organized and complete. Certain useful design methods can be delegated as tasks and be used throughout the development of the project as a guide to implement everything that is required.
