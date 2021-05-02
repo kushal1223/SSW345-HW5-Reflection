@@ -1,4 +1,5 @@
 # Kushal Patel - SSW 345 - HW5
+I pledge my honor that I have abided by the Stevens Honor System.
 
 # Reflection
 Over the past two milestones, you've had the opportunity to apply several software engineering practices and processes in the design and implementation of a bot project.
